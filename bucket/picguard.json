@@ -13,6 +13,7 @@
             "hash": "721d310a745bd0ce4e92881e21e1c69ee5cda3d72deb4797543deed9398b245d"
         }
     },
+    "innosetup": true,
     "installer": {
         "script": [
             "$installDir = \"$env:LOCALAPPDATA\\PicGuard\"",
