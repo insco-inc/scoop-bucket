@@ -1,19 +1,48 @@
 # Scoop Bucket
 
-[![Tests](https://github.com/picguard/scoop-bucket/actions/workflows/ci.yml/badge.svg)](https://github.com/picguard/scoop-bucket/actions/workflows/ci.yml)
-[![Excavator](https://github.com/picguard/scoop-bucket/actions/workflows/excavator.yml/badge.svg)](https://github.com/picguard/scoop-bucket/actions/workflows/excavator.yml)
-[![Scoop Version](https://img.shields.io/scoop/v/picguard?bucket=https%3A%2F%2Fgithub.com%2Fpicguard%2Fscoop-bucket)](https://scoop.sh/#/apps?q=picguard&o=false&id=d82f75b3e4ad483c1a4a3fc356ab88d588728c57)
+[![Tests](https://github.com/kjxbyz/scoop-bucket/actions/workflows/ci.yml/badge.svg)](https://github.com/kjxbyz/scoop-bucket/actions/workflows/ci.yml)
+[![Excavator](https://github.com/kjxbyz/scoop-bucket/actions/workflows/excavator.yml/badge.svg)](https://github.com/kjxbyz/scoop-bucket/actions/workflows/excavator.yml)
+
+## Packages
+
+<table>
+  <tr>
+    <th>Bucket name</th>
+    <th colspan="2" style="text-align: center">Download</th>
+  </tr>
+  <tr>
+    <td>picguard</td>
+    <td>
+      <a href="https://scoop.sh/#/apps?q=picguard&o=false&id=d82f75b3e4ad483c1a4a3fc356ab88d588728c57">
+        <img alt="Scoop Version" src="https://img.shields.io/scoop/v/picguard?bucket=https%3A%2F%2Fgithub.com%2Fkjxbyz%2Fscoop-bucket">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>fafarunner</td>
+    <td>
+      <a href="https://scoop.sh/#/apps?q=fafarunner&o=false&id=d82f75b3e4ad483c1a4a3fc356ab88d588728c57">
+        <img alt="Scoop Version" src="https://img.shields.io/scoop/v/fafarunner?bucket=https%3A%2F%2Fgithub.com%2Fkjxbyz%2Fscoop-bucket">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>faforever</td>
+    <td>
+      <a href="https://scoop.sh/#/apps?q=faforever&o=false&id=d82f75b3e4ad483c1a4a3fc356ab88d588728c57">
+        <img alt="Scoop Version" src="https://img.shields.io/scoop/v/faforever?bucket=https%3A%2F%2Fgithub.com%2Fkjxbyz%2Fscoop-bucket">
+      </a>
+    </td>
+  </tr>
+</table>
 
 ## Install
 
 ```pwsh
-scoop bucket add scoop-bucket https://github.com/picguard/scoop-bucket
-scoop install scoop-bucket/picguard
+scoop bucket add kjxbyz_scoop-bucket https://github.com/kjxbyz/scoop-bucket
+scoop install kjxbyz_scoop-bucket/<bucket-name>
 ```
 
-## How do I contribute new manifests?
+## LICENSE
 
-To make a new manifest contribution, please read the [Contributing
-Guide](https://github.com/ScoopInstaller/.github/blob/main/.github/CONTRIBUTING.md)
-and [App Manifests](https://github.com/ScoopInstaller/Scoop/wiki/App-Manifests)
-wiki page.
+MIT
