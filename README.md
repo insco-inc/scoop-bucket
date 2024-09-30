@@ -3,12 +3,12 @@
 [![Tests](https://github.com/kjxbyz/scoop-bucket/actions/workflows/ci.yml/badge.svg)](https://github.com/kjxbyz/scoop-bucket/actions/workflows/ci.yml)
 [![Excavator](https://github.com/kjxbyz/scoop-bucket/actions/workflows/excavator.yml/badge.svg)](https://github.com/kjxbyz/scoop-bucket/actions/workflows/excavator.yml)
 
-## Packages
+## Buckets
 
 <table>
   <tr>
-    <th>Bucket name</th>
-    <th colspan="2" style="text-align: center">Download</th>
+    <th>Bucket</th>
+    <th colspan="2" style="text-align: center">Scoop.sh</th>
   </tr>
   <tr>
     <td>picguard</td>
@@ -45,4 +45,4 @@ scoop install kjxbyz_scoop-bucket/<bucket-name>
 
 ## LICENSE
 
-MIT
+[MIT](./LICENSE)
