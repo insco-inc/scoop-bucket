@@ -8,12 +8,12 @@
 <table>
   <tr>
     <th>Bucket</th>
-    <th colspan="2" style="text-align: center">Scoop.sh</th>
+    <th colspan="2" style="text-align: center">Version</th>
   </tr>
   <tr>
     <td>picguard</td>
     <td>
-      <a href="https://scoop.sh/#/apps?q=picguard&o=false&id=d82f75b3e4ad483c1a4a3fc356ab88d588728c57">
+      <a href="https://scoop.sh/#/apps?q=picguard&o=false">
         <img alt="Scoop Version" src="https://img.shields.io/scoop/v/picguard?bucket=https%3A%2F%2Fgithub.com%2Fkjxbyz%2Fscoop-bucket">
       </a>
     </td>
@@ -21,7 +21,7 @@
   <tr>
     <td>fafarunner</td>
     <td>
-      <a href="https://scoop.sh/#/apps?q=fafarunner&o=false&id=d82f75b3e4ad483c1a4a3fc356ab88d588728c57">
+      <a href="https://scoop.sh/#/apps?q=fafarunner&o=false">
         <img alt="Scoop Version" src="https://img.shields.io/scoop/v/fafarunner?bucket=https%3A%2F%2Fgithub.com%2Fkjxbyz%2Fscoop-bucket">
       </a>
     </td>
@@ -29,7 +29,7 @@
   <tr>
     <td>faforever</td>
     <td>
-      <a href="https://scoop.sh/#/apps?q=faforever&o=false&id=d82f75b3e4ad483c1a4a3fc356ab88d588728c57">
+      <a href="https://scoop.sh/#/apps?q=faforever&o=false">
         <img alt="Scoop Version" src="https://img.shields.io/scoop/v/faforever?bucket=https%3A%2F%2Fgithub.com%2Fkjxbyz%2Fscoop-bucket">
       </a>
     </td>
