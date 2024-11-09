@@ -26,14 +26,6 @@
       </a>
     </td>
   </tr>
-  <tr>
-    <td>faforever</td>
-    <td>
-      <a href="https://scoop.sh/#/apps?q=faforever&o=false">
-        <img alt="Scoop Version" src="https://img.shields.io/scoop/v/faforever?bucket=https%3A%2F%2Fgithub.com%2Fkjxbyz%2Fscoop-bucket">
-      </a>
-    </td>
-  </tr>
 </table>
 
 ## Install
