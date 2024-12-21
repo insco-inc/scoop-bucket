@@ -26,6 +26,14 @@
       </a>
     </td>
   </tr>
+  <tr>
+    <td>artify</td>
+    <td>
+      <a href="https://scoop.sh/#/apps?q=artify&o=false">
+        <img alt="Scoop Version" src="https://img.shields.io/scoop/v/artify?bucket=https%3A%2F%2Fgithub.com%2Fkjxbyz%2Fscoop-bucket">
+      </a>
+    </td>
+  </tr>
 </table>
 
 ## Install
