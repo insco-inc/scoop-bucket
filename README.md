@@ -1,7 +1,7 @@
 # Scoop Bucket
 
-[![Tests](https://github.com/kjxbyz/scoop-bucket/actions/workflows/ci.yml/badge.svg)](https://github.com/kjxbyz/scoop-bucket/actions/workflows/ci.yml)
-[![Excavator](https://github.com/kjxbyz/scoop-bucket/actions/workflows/excavator.yml/badge.svg)](https://github.com/kjxbyz/scoop-bucket/actions/workflows/excavator.yml)
+[![Tests](https://github.com/insco-inc/scoop-bucket/actions/workflows/ci.yml/badge.svg)](https://github.com/insco-inc/scoop-bucket/actions/workflows/ci.yml)
+[![Excavator](https://github.com/insco-inc/scoop-bucket/actions/workflows/excavator.yml/badge.svg)](https://github.com/insco-inc/scoop-bucket/actions/workflows/excavator.yml)
 
 ## Buckets
 
@@ -14,7 +14,7 @@
     <td>picguard</td>
     <td>
       <a href="https://scoop.sh/#/apps?q=picguard&o=false">
-        <img alt="Scoop Version" src="https://img.shields.io/scoop/v/picguard?bucket=https%3A%2F%2Fgithub.com%2Fkjxbyz%2Fscoop-bucket">
+        <img alt="Scoop Version" src="https://img.shields.io/scoop/v/picguard?bucket=https%3A%2F%2Fgithub.com%2Finsco-inc%2Fscoop-bucket">
       </a>
     </td>
   </tr>
@@ -22,7 +22,7 @@
     <td>fafarunner</td>
     <td>
       <a href="https://scoop.sh/#/apps?q=fafarunner&o=false">
-        <img alt="Scoop Version" src="https://img.shields.io/scoop/v/fafarunner?bucket=https%3A%2F%2Fgithub.com%2Fkjxbyz%2Fscoop-bucket">
+        <img alt="Scoop Version" src="https://img.shields.io/scoop/v/fafarunner?bucket=https%3A%2F%2Fgithub.com%2Finsco-inc%2Fscoop-bucket">
       </a>
     </td>
   </tr>
@@ -30,7 +30,7 @@
     <td>artify</td>
     <td>
       <a href="https://scoop.sh/#/apps?q=artify&o=false">
-        <img alt="Scoop Version" src="https://img.shields.io/scoop/v/artify?bucket=https%3A%2F%2Fgithub.com%2Fkjxbyz%2Fscoop-bucket">
+        <img alt="Scoop Version" src="https://img.shields.io/scoop/v/artify?bucket=https%3A%2F%2Fgithub.com%2Finsco-inc%2Fscoop-bucket">
       </a>
     </td>
   </tr>
@@ -39,8 +39,8 @@
 ## Install
 
 ```pwsh
-scoop bucket add kjxbyz_scoop-bucket https://github.com/kjxbyz/scoop-bucket
-scoop install kjxbyz_scoop-bucket/<bucket-name>
+scoop bucket add insco-inc_scoop-bucket https://github.com/insco-inc/scoop-bucket
+scoop install insco-inc_scoop-bucket/<bucket-name>
 ```
 
 ## LICENSE
