@@ -34,6 +34,14 @@
       </a>
     </td>
   </tr>
+  <tr>
+    <td>kitify</td>
+    <td>
+      <a href="https://scoop.sh/#/apps?q=kitify&o=false">
+        <img alt="Scoop Version" src="https://img.shields.io/scoop/v/kitify?bucket=https%3A%2F%2Fgithub.com%2Finsco-inc%2Fscoop-bucket">
+      </a>
+    </td>
+  </tr>
 </table>
 
 ## Install
