@@ -1,12 +1,12 @@
 {
-    "version": "1.0.15+439",
+    "version": "1.1.0+440",
     "description": "Your pictures, your signature.",
     "homepage": "https://www.picguard.app",
     "license": "GPL-3.0-only",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/picguard/picguard/releases/download/v1.0.15+439/picguard_1.0.15+439_windows_x64.exe#/PicGuardSetup.exe",
-            "hash": "84e314af9453850a83f17641d1e158e05d914ac4b13517886e5c3d6ea1d34b86"
+            "url": "https://github.com/picguard/picguard/releases/download/v1.1.0+440/picguard_1.1.0+440_windows_x64.exe#/PicGuardSetup.exe",
+            "hash": "af6f0a13599f187415141dfbce373ef7e4f968fb2a1d94e598d381cfab27a8d4"
         }
     },
     "innosetup": true,
