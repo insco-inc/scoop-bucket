@@ -19,12 +19,13 @@
     "checkver": {
         "url": "https://api.github.com/repos/picguard/picguard/releases/latest",
         "jsonpath": "$..browser_download_url",
-        "regex": "download/v(?<version>\\d+(\\.\\d+)+(\\+\\d+)?)/picguard-(?<short>\\d+(\\.\\d+)+)-windows-x64\\.exe"
+        "regex": "download/v((\\d+(?:\\.\\d+)+)(?:%2B(\\d+))?)/picguard-(?<short>\\d+(?:\\.\\d+)+)-windows-x64\\.exe",
+        "replace": "${2}+${3}"
     },
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://github.com/picguard/picguard/releases/download/v$matchVersion/picguard-$matchShort-windows-x64.exe#/PicGuardSetup.exe"
+                "url": "https://github.com/picguard/picguard/releases/download/v$version/picguard-$matchShort-windows-x64.exe#/PicGuardSetup.exe"
             }
         }
     }
