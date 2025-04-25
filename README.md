@@ -19,6 +19,14 @@
     </td>
   </tr>
   <tr>
+    <td>picguard-pro</td>
+    <td>
+      <a href="https://scoop.sh/#/apps?q=picguard-pro&o=false">
+        <img alt="Scoop Version" src="https://img.shields.io/scoop/v/picguard-pro?bucket=https%3A%2F%2Fgithub.com%2Finsco-inc%2Fscoop-bucket">
+      </a>
+    </td>
+  </tr>
+  <tr>
     <td>fafarunner</td>
     <td>
       <a href="https://scoop.sh/#/apps?q=fafarunner&o=false">
